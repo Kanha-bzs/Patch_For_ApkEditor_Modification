@@ -1,12 +1,37 @@
 [
 {
-"Patch_Name" : "Animated ListView",
-"About_Patch" : "This can help you to animate your ListView",
-"Download_Link" : "Nothing"
+"Patch_Name" : "Solve Emoji String Error",
+"About_Patch" : "Tilks 2021-03-29 (string with emoji unpack error patch)\n# Apk Editor Pro 1.10.0 patch\n# Error description\n# If the string contains emoji, String Decoder return null\n#\n# Please unpack smali code before apply patch",
+"Download_Link" : "https://github.com/Kanha-bzs/Patch_For_ApkEditor_Modification/blob/main/Patches/Emoji_String_Error.zip?raw=true"
 },
 {
-"Patch_Name" : "Animated View",
-"About_Patch" : "Testing",
-"Download_Link" : "Nothing"
+"Patch_Name" : "Compress Level optimization",
+"About_Patch" : "Tilks 2021-04-16 (3in1)\n# Apk Editor Pro 1.10.0 patch\n# \"INSTALL_FAILED_INVALID_APK\"\n# \"page-aligned not compressed *.so files\"\n\n# \"Compression level optimization patch\"\n# \"Native patch\"\n\n# \"AndroidManifest.xml\"\n# \"After build, the manifest remains in plain text format\"",
+"Download_Link" : "https://github.com/Kanha-bzs/Patch_For_ApkEditor_Modification/blob/main/Patches/error_3in1_patch.zip?raw=true"
+},
+{
+"Patch_Name" : "9-patch Malformed",
+"About_Patch" : "Tilks 2021-04-07 (9-patch malformed)\n# Apk Editor Pro 1.10.0 patch\n# \"9-patch malformed\"\n# \"No marked region found along edge\"",
+"Download_Link" : "https://github.com/Kanha-bzs/Patch_For_ApkEditor_Modification/blob/main/Patches/error_9-patch_malformed.zip?raw=true"
+},
+{
+"Patch_Name" : "AndroidManifest.xml plain text format",
+"About_Patch" : "Tilks 2021-04-13 (AndroidManifest.xml plain text format)\n# Apk Editor Pro 1.10.0 patch\n# \"AndroidManifest.xml\"\n# \"After build, the manifest remains in plain text format\"",
+"Download_Link" : "https://github.com/Kanha-bzs/Patch_For_ApkEditor_Modification/blob/main/Patches/error_AndroidManifest_edit.zip?raw=true"
+},
+{
+"Patch_Name" : "Compression level optimization(Native)",
+"About_Patch" : "Tilks 2021-04-15 (Compression level optimization patch)\n# Apk Editor Pro 1.10.0 patch\n# \"Compression level optimization patch\"\n# \"Native patch\"",
+"Download_Link" : "https://github.com/Kanha-bzs/Patch_For_ApkEditor_Modification/blob/main/Patches/error_CompressLevel_native.zip?raw=true"
+},
+{
+"Patch_Name" : "Timer Patcher",
+"About_Patch" : "Tilks 2021-03-05 Patcher Timer",
+"Download_Link" : "https://github.com/Kanha-bzs/Patch_For_ApkEditor_Modification/blob/main/Patches/PatcherTimer.zip?raw=true"
+},
+{
+"Patch_Name" : "Timer + AutoScroll Patchl",
+"About_Patch" : "Tilks 2021-03-06 Patcher Timer + AutoScroll",
+"Download_Link" : "https://github.com/Kanha-bzs/Patch_For_ApkEditor_Modification/blob/main/Patches/PatcherTimer_AutoScroll.zip?raw=true"
 }
 ]
